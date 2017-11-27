@@ -1,0 +1,80 @@
+#outline{
+  display:block;
+  width:80%;
+  margin-top:60px;
+  background-color:silver;
+  border-radius:0.5%;
+}
+
+#caption{
+  font-style:italic;  
+  padding-top:15px;
+  font-size:1.8em;
+  
+}
+
+#title{
+  font-size:3.7em;
+  padding-top:30px;
+  font-family: chalkboard;
+}
+
+#picBck{
+  background-color:white;
+  border-radius:0.5%;
+  border-style:solid;
+  border-width:1px;
+  border-color:gray;
+}
+
+#picCap{
+	margin-left:100px;
+	margin-right:100px;
+	font-size:0.9em;
+}
+img{
+	width:99%;
+}
+
+#listHead{
+	text-indent:15%;
+	font-size:1.5em;
+}
+
+#outer{
+	margin:0 auto;
+}
+
+#listDiv{
+	margin-left:158px;
+	font-size:.9em;
+	margin-right:200px;
+	
+}
+
+#quote{
+	margin-left:180px;
+	font-size:1.3em;
+	margin-right: 200px;
+}
+
+#quoteBy{
+	font-size: 0.8em;
+	opacity:0.7;
+}
+
+#wiki{
+	margin-left:180px;
+	margin-right:200px;
+	font-size:1.5em;
+}
+
+#bar{
+	margin-left:138px;
+	margin-right:140px;
+	opacity:0.3;
+}
+
+#credit{
+	font-size:0.9em;
+}
